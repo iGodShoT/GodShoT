@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Login>21</Login>
+    <Password>22</Password>
+    <Surname>Chernyshev</Surname>
+    <Name>Ilya</Name>
+    <Middlename>Vladislavovich</Middlename>
+    <Email>11</Email>
+    <Age>19</Age>
+    <Education>Associate</Education>
+    <Role>Admin</Role>
+  </User>
+</ArrayOfUser>
